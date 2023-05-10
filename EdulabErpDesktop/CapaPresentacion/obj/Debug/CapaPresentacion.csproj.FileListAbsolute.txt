@@ -67,7 +67,6 @@ C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\
 C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
 C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
 C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
-C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.FrmInicioSesion.resources
 C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
 C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
 C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.exe.licenses
@@ -152,3 +151,4 @@ C:\Users\Colegio Maiti\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPrese
 C:\Users\Colegio Maiti\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\Colegio Maiti\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\Colegio Maiti\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\erick\Documents\GitHub\SistemaEdulab\EdulabErpDesktop\CapaPresentacion\obj\Debug\CapaPresentacion.InicioSesion.resources

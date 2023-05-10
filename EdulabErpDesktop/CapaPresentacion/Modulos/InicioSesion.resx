@@ -139,14 +139,20 @@
         RK5CYII=
 </value>
   </data>
-  <data name="bunifuTextBox2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="LblNombreAplicacion2.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Microsoft Sans Serif'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(140, 4, 68); text-align: left; }</value>
+  </data>
+  <data name="LblNombreAplicacion1.BaseStylesheet" xml:space="preserve">
+    <value>#bunifu-label { padding: 0px; font-family: 'Microsoft Sans Serif'; font-size: 12pt; width: 100%; height: 100%; font-style: normal; font-weight: bold; text-decoration: none; color: rgb(140, 4, 68); text-align: left; }</value>
+  </data>
+  <data name="TxbCorreoElectronico.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAATMAAAAkCAYAAADl/N3JAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABJSURBVHhe7cMBCQAACAMw+5fyzdQawgYrAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4LEnfUf07s7HO5HuLb3feAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="bunifuTextBox2.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="TxbCorreoElectronico.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
         DAAACwwBP0AiyAAAAVJJREFUSEvtlM1Kw0AUhS+dZKWIa//wFaq4DmTGWtGde5e+gstsWzIxioIPoaCI
@@ -158,7 +164,7 @@
         AAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="bunifuTextBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="TxbContrasenia.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAATMAAAAkCAYAAADl/N3JAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
         YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABJSURBVHhe7cMBCQAACAMw+5fyzdQawgYrAAAAAAAAAAAA

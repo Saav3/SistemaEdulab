@@ -145,16 +145,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FrmInicioSesion.cs">
+    <Compile Include="Modulos\InicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmInicioSesion.Designer.cs">
-      <DependentUpon>FrmInicioSesion.cs</DependentUpon>
+    <Compile Include="Modulos\InicioSesion.Designer.cs">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FrmInicioSesion.resx">
-      <DependentUpon>FrmInicioSesion.cs</DependentUpon>
+    <EmbeddedResource Include="Modulos\InicioSesion.resx">
+      <DependentUpon>InicioSesion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -201,6 +201,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\BannerEdulabR.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ErpLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Eventos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
