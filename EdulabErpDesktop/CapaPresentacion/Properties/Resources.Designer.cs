@@ -63,6 +63,26 @@ namespace CapaPresentacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap BannerEdulabR {
+            get {
+                object obj = ResourceManager.GetObject("BannerEdulabR", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap BannerErp {
+            get {
+                object obj = ResourceManager.GetObject("BannerErp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap CerrarAplicacion {
             get {
                 object obj = ResourceManager.GetObject("CerrarAplicacion", resourceCulture);
@@ -73,9 +93,29 @@ namespace CapaPresentacion.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap CerrarSesion {
+        internal static System.Drawing.Bitmap Contrasenia {
             get {
-                object obj = ResourceManager.GetObject("CerrarSesion", resourceCulture);
+                object obj = ResourceManager.GetObject("Contrasenia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap CorreoElectronico {
+            get {
+                object obj = ResourceManager.GetObject("CorreoElectronico", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap IniciarSesion {
+            get {
+                object obj = ResourceManager.GetObject("IniciarSesion", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

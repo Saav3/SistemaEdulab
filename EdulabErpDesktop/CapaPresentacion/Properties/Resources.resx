@@ -121,10 +121,22 @@
   <data name="CerrarAplicacion" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CerrarAplicacion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CerrarSesion" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\CerrarSesion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="IniciarSesion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\IniciarSesion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="PosTerminal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PosTerminal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CorreoElectronico" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CorreoElectronico.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Contrasenia" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Contrasenia.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BannerErp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BannerErp.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BannerEdulabR" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BannerEdulabR.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

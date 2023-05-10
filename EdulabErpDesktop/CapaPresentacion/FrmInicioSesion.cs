@@ -14,7 +14,8 @@ namespace CapaPresentacion
     {
         public FrmInicioSesion()
         {
-            InitializeComponent();
+            InitializeComponent(); 
+            PbxLogoEdulab.BorderRadius = 25;
         }
     }
 }

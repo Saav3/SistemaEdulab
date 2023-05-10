@@ -159,19 +159,19 @@
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -185,10 +185,22 @@
     <None Include="Resources\CerrarAplicacion.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\CerrarSesion.png" />
+    <None Include="Resources\PosTerminal.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\PosTerminal.png" />
+    <None Include="Resources\IniciarSesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contrasenia.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CorreoElectronico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BannerErp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BannerEdulabR.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
