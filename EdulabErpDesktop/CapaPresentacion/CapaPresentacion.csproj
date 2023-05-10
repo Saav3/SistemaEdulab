@@ -145,6 +145,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Eventos\InicioCierreFormulario.cs" />
     <Compile Include="Modulos\InicioSesion.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -205,8 +206,6 @@
   <ItemGroup>
     <None Include="Resources\ErpLogo.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Eventos\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
