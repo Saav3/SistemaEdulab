@@ -8,5 +8,6 @@ namespace CapaPresentacion.Eventos
 {
     internal class InicioCierreFormulario
     {
+
     }
 }
