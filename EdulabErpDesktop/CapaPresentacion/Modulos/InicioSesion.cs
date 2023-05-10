@@ -20,7 +20,7 @@ namespace CapaPresentacion
             this.StartPosition = FormStartPosition.CenterScreen;
             this.ControlBox = false;
             PbxLogoEdulab.BorderRadius = 25;
-            BtnCerrarAplicacion.Visible = true;
+            BtnCerrarAplicacion.Visible = false;
 
         }
 
@@ -32,8 +32,8 @@ namespace CapaPresentacion
         private void InicioSesion_Load(object sender, EventArgs e)
         {
             InicioCierreFormulario.EfectoInicio(this);
-            //System.Threading.Thread.Sleep(1000);
-           // BtnCerrarAplicacion.Visible = true;
+            System.Threading.Thread.Sleep(1000);
+            BtnCerrarAplicacion.Visible = true;
         }
     }
 }
